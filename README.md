@@ -55,10 +55,8 @@ The verification environment is built using SystemVerilog UVM and supports const
 
 ## Architecture
 
-```
-[![ARM AMBA 5 CHI Architecture Topology Diagram](images/arm-chi-architecture.png)](https://www.gem5.org/assets/img/ruby_chi/chi_components.png)
+<img width="657" height="487" alt="h2CEny9O3NAixLVfRFgeJi4rRHWPbkUaZuEALiU5bKH46FjQj54GDyKtTK8m4l3tXe0P49tbR8aq-3-nZ_zTEUAKoe8-E5wGTo2z4r1eoIEfLT7YSXcWT4cgndMIhcyN0hZ7vKKvQLU4jcWFzt38Zjz9GFzWGpj_1_uEA64vsFE" src="https://github.com/user-attachments/assets/af646afc-83f3-4d1f-9ed9-c2b9315f95cb" />
 
-```
 
 ---
 
@@ -117,6 +115,14 @@ UVM_INFO testbench.sv(921) @ 2026: uvm_test_top.env.sb [COV_REPORT] Response    
 UVM_INFO testbench.sv(926) @ 2026: uvm_test_top.env.sb [COV_REPORT] Address          = 100.00%
 UVM_INFO testbench.sv(931) @ 2026: uvm_test_top.env.sb [COV_REPORT] Write Data       = 100.00%
 ```
+
+<img width="1648" height="958" alt="8c2794fd-1309-4a16-a536-be4097846cab" src="https://github.com/user-attachments/assets/91f3532d-59bd-4b2c-b192-c3d03815a36f" />
+
+
+<img width="1881" height="958" alt="b58758a1-c9b2-4e4f-8db6-e6191a57248d" src="https://github.com/user-attachments/assets/32a8f0f4-bde0-4839-81e6-d2333752422b" />
+
+
+
 
 ---
 
