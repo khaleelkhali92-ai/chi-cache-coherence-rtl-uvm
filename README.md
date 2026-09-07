@@ -56,7 +56,7 @@ The verification environment is built using SystemVerilog UVM and supports const
 ## Architecture
 
 ```
-<img width="657" height="487" alt="h2CEny9O3NAixLVfRFgeJi4rRHWPbkUaZuEALiU5bKH46FjQj54GDyKtTK8m4l3tXe0P49tbR8aq-3-nZ_zTEUAKoe8-E5wGTo2z4r1eoIEfLT7YSXcWT4cgndMIhcyN0hZ7vKKvQLU4jcWFzt38Zjz9GFzWGpj_1_uEA64vsFE" src="https://github.com/user-attachments/assets/4155c28b-f02c-4d98-ac41-1f355385a9e9" />
+![ARM AMBA 5 CHI Architecture Topology Diagram](images/arm-chi-architecture.png)
 
 ```
 
