@@ -86,32 +86,6 @@ The verification environment is built using SystemVerilog UVM and supports const
 
 ✔ Configurable Memory Latency
 
----
-
-## Directory Structure
-
-```
-RTL/
-    my_chi.sv
-    memory.sv
-    ...
-
-UVM/
-    interface.sv
-    transaction.sv
-    sequence.sv
-    sequencer.sv
-    driver.sv
-    monitor.sv
-    scoreboard.sv
-    agent.sv
-    env.sv
-    test.sv
-
-sim/
-
-README.md
-```
 
 ---
 
