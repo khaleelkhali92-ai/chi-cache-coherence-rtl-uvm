@@ -101,10 +101,21 @@ The verification environment is built using SystemVerilog UVM and supports const
 ## Simulation Result
 
 ```
-PASS COUNT = 8
-FAIL COUNT = 0
-
-******** ALL TESTS PASSED ********
+UVM_INFO testbench.sv(870) @ 2026: uvm_test_top.env.sb [CHI_STATS] ==========================================
+UVM_INFO testbench.sv(874) @ 2026: uvm_test_top.env.sb [CHI_STATS]           CHI STATISTICS
+UVM_INFO testbench.sv(878) @ 2026: uvm_test_top.env.sb [CHI_STATS] Read Hits      : 9
+UVM_INFO testbench.sv(882) @ 2026: uvm_test_top.env.sb [CHI_STATS] Read Misses    : 1
+UVM_INFO testbench.sv(886) @ 2026: uvm_test_top.env.sb [CHI_STATS] Snoop Hits     : 9
+UVM_INFO testbench.sv(890) @ 2026: uvm_test_top.env.sb [CHI_STATS] Memory Reads   : 1
+UVM_INFO testbench.sv(894) @ 2026: uvm_test_top.env.sb [CHI_STATS] Memory Writes  : 8
+UVM_INFO testbench.sv(898) @ 2026: uvm_test_top.env.sb [CHI_STATS] Hit Rate       : 90.0%
+UVM_INFO testbench.sv(902) @ 2026: uvm_test_top.env.sb [CHI_STATS] ==========================================
+UVM_INFO testbench.sv(906) @ 2026: uvm_test_top.env.sb [COV_REPORT] Overall Coverage = 100.00%
+UVM_INFO testbench.sv(911) @ 2026: uvm_test_top.env.sb [COV_REPORT] RN Coverage      = 100.00%
+UVM_INFO testbench.sv(916) @ 2026: uvm_test_top.env.sb [COV_REPORT] Operation        = 100.00%
+UVM_INFO testbench.sv(921) @ 2026: uvm_test_top.env.sb [COV_REPORT] Response         = 100.00%
+UVM_INFO testbench.sv(926) @ 2026: uvm_test_top.env.sb [COV_REPORT] Address          = 100.00%
+UVM_INFO testbench.sv(931) @ 2026: uvm_test_top.env.sb [COV_REPORT] Write Data       = 100.00%
 ```
 
 ---
