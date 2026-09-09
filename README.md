@@ -78,12 +78,6 @@ The verification environment is built using SystemVerilog UVM and supports const
 
 ✔ Simultaneous RN0 & RN1 WRITE
 
-✔ Cache Fill after Memory Read
-
-✔ Directory Ownership Update
-
-✔ Configurable Memory Latency
-
 
 ---
 
